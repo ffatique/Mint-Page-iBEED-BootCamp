@@ -18,7 +18,7 @@ export default function Home(){
 
   // Campos a Serem Personalizados
     const nameProjet = "BootCamp iBEED"  // Nome do seu Projeto
-    const { contract } = useContract("0x0Eda1134E9D0e19727Ab1Ca0A1B0F71b0C22DA44") // Endereço da sua Coleção
+    const { contract } = useContract("0xE21964C19fb32f02e474ae83b126B87E6D1C2301") // Endereço da sua Coleção
     const tokenId = 0 // Token ID que você quer liberar o Mint
   // -------------------------------
 
